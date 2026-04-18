@@ -1,4 +1,4 @@
-# QR code component
+# NFT Card component
 
 Hey folks!
 Here is another piece of code, helping me get back slowly to coding fun.
