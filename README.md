@@ -7,4 +7,4 @@ This time, I decided to give Tailwind a try, and play a bit with this framework.
 
 Best!
 
-![Preview from repository page](./screenshot.jpg)
+![Preview from repository page](./screenshot.png)
